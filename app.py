@@ -58,7 +58,7 @@ with col3:
 with col3:
     st.html(
     """
-            <button style="background-color: #00d3ff36; height: 43px; width: 150px;  display: flex; align-items: center; justify-content: center; border-radius: 10px;">Convert</button>
+    <button style="background-color: #00d3ff36; height: 43px; width: 150px;  display: flex; align-items: center; justify-content: center; border-radius: 10px;">Convert</button>
     """)
 # Footer Section with Links
 st.html(
